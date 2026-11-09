@@ -1,4 +1,4 @@
-# <year> Fellowship Projects
+# 2027 Fellowship Projects
 
 <!--
 EXAMPLE Project Entry:
